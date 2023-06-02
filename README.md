@@ -4,6 +4,7 @@
 
 I leverage the power of data to navigate complex challenges and deliver innovative solutions. I have a talent for creating interactive visualizations on dashboards that bring data to life, enabling me to effectively tell the story behind the numbers and provide valuable insights.
 
+##Skills and Experience
 Skills: Python | R | SQL | MATLAB | JavaScript | Git | PySpark | Numpy | Pandas | Scikit-learn | RShiny | Dash | Machine Learning | Statistics | Big Data
 
 
